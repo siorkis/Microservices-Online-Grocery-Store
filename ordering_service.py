@@ -79,7 +79,6 @@ async def create_order():
                         "usd" : new_bill.usd
                     }
 
-                    # bill = requests.post('http://localhost:4002/saga', json=bill)
                     db.session.commit()
 
                     order_data = {"current_seller" : current_seller, "item": new_bill.item, "quantity" : new_bill.quantity}
