@@ -1,0 +1,40 @@
+{
+    "apple": {
+        "seller-Stock": {
+            "quantity": 956,
+            "price": 2,
+            "seller": "Stock"
+        },
+        "seller-John": {
+            "quantity": 394,
+            "price": 4.5,
+            "seller": "John"
+        },
+        "seller-Alex": {
+            "quantity": 500,
+            "price": 4.5,
+            "seller": "Alex"
+        }
+    },
+    "banana": {
+        "seller-Stock": {
+            "quantity": 1000,
+            "price": 4,
+            "seller": "Stock"
+        }
+    },
+    "potato": {
+        "seller-Stock": {
+            "quantity": 1000,
+            "price": 3.5,
+            "seller": "Stock"
+        }
+    },
+    "tomato": {
+        "seller-Stock": {
+            "quantity": 1000,
+            "price": 2.8,
+            "seller": "Stock"
+        }
+    }
+}
